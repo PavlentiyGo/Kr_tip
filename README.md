@@ -5,6 +5,6 @@
 - Включение/отключение заглавных букв, цифр и специальных символов
 - Генерация случайного пароля по нажатию кнопки
 ### Cкриншоты работы
-- (Screebshots/1.jpg)
-- (Screebshots/2.jpg)
-- (Screebshots/3.jpg)
+(Screebshots/1.jpg)
+(Screebshots/2.jpg)
+(Screebshots/3.jpg)
